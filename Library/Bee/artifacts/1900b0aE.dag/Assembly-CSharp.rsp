@@ -359,6 +359,7 @@
 "Assets/Scripts/AiCarController.cs"
 "Assets/Scripts/CarController.cs"
 "Assets/Scripts/LapManager.cs"
+"Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/PositionManager.cs"
 "Assets/Scripts/TriggerControl.cs"
 "Assets/Scripts/WaypointContainer.cs"
