@@ -27,9 +27,14 @@ public class CarController : MonoBehaviour
     // Audio Source
     private AudioSource audioSource;
 
+    // Center of Mass
+    [SerializeField] private Vector3 centerOfMass;
+
     private void Start()
     {
-        // Get the AudioSource component attached to the same GameObject
+        // Set the center of mass
+        GetComponent<Rigidbody>().centerOfMass = centerOfMass;
+        // Get the AudioSource component
         audioSource = GetComponent<AudioSource>();
     }
 
