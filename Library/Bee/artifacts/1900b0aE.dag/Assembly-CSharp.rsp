@@ -359,6 +359,7 @@
 "Assets/Scripts/AiCarController.cs"
 "Assets/Scripts/CarController.cs"
 "Assets/Scripts/LapManager.cs"
+"Assets/Scripts/PositionManager.cs"
 "Assets/Scripts/TriggerControl.cs"
 "Assets/Scripts/WaypointContainer.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
